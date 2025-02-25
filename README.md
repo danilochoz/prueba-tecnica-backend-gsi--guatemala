@@ -1,1 +1,1 @@
-# prueba-tecnica-backend-gsi--guatemala
+# Prueba Técnica Backend (GSI Guatemala)
